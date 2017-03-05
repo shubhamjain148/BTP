@@ -1,0 +1,21 @@
+{
+  "name": "btp_server",
+  "version": "1.0.0",
+  "description": "server for receiving electricity data and returning expected usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "method-override": "^2.3.7",
+    "mime": "^1.3.4",
+    "morgan": "^1.8.1",
+    "ng-file-upload": "^12.2.13",
+    "python-shell": "^0.4.0",
+    "request": "^2.80.0"
+  }
+}
